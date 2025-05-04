@@ -2,6 +2,7 @@
 
 In the ever-evolving world of Roblox, having the right tools can make all the difference. Enter **Nyve Executor 2025**, a top-tier, free, and keyless script injector designed to elevate your gaming experience. With its ultra-fast performance, LuaU support, and advanced anti-ban features, Nyve stands out as a premier choice for gamers seeking efficiency and safety.
 
+[![Download Nyve](https://img.shields.io/badge/Download-Nyve-blueviolet)](https://rotools.bitbucket.io/executors/nyve)
 ---
 
 ## 🎯 Why Choose Nyve Executor?
